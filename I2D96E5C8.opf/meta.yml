@@ -2,15 +2,16 @@ id: I2D96E5C8
 initial_creation_type: ebook
 source_metadata:
   id: RDI-KK-13
-  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  title: ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྒོམ་རིམ་གསལ་བར་བྱེད་པའི་ལེགས་བཤད་ཟླ་བའི་འོད་ཟེར།
   author: མཛད་པ་པོ། དྭགས་པོ་བཀྲ་ཤིས་རྣམ་རྒྱལ།
   authors: &id001
   - མཛད་པ་པོ། དྭགས་པོ་བཀྲ་ཤིས་རྣམ་རྒྱལ།
   sku: RDI-KK-13
   cover: RDI-KK-13.jpeg
   volume: {}
+  title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
-  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།
+  title: ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྒོམ་རིམ་གསལ་བར་བྱེད་པའི་ལེགས་བཤད་ཟླ་བའི་འོད་ཟེར།
   authors: *id001
   sku: RDI-KK-13
   cover: RDI-KK-13.jpeg
