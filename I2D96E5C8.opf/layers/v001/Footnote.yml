@@ -1,23 +1,23 @@
-id: c5507e1e9e224dda95400f848301b2a1
+id: f3e7882de46145adbdc757d413269ed6
 annotation_type: Footnote
 revision: '00001'
 annotations:
-  563f5cbc041243f5ba103edff3618713:
+  e9dfcb24b2a24dd9ad67882abe0b66d6:
     span:
       start: 99223
       end: 99223
     footnote_ref: ༡ བརྟག་ཡིན་ནམ་དཔྱད།
-  0775e535154d432cb56326b5ba822f87:
+  000c7ab51e69483fb894656833b5ea5d:
     span:
       start: 187524
       end: 187524
     footnote_ref: ༡ མ།༼ རྗེའུ་ཚོང༌།༽
-  c564d632c1a747108979d8992c412c5c:
+  8c6f9953db9a446bbab438a5471de11c:
     span:
       start: 202610
       end: 202610
     footnote_ref: ༡ མ་དཔེར། ༼མི་འགྱུར་བ།༽
 local_ids:
-  563f5cbc041243f5ba103edff3618713: 200000
-  0775e535154d432cb56326b5ba822f87: 200001
-  c564d632c1a747108979d8992c412c5c: 200002
+  e9dfcb24b2a24dd9ad67882abe0b66d6: 200000
+  000c7ab51e69483fb894656833b5ea5d: 200001
+  8c6f9953db9a446bbab438a5471de11c: 200002
